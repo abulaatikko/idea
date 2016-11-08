@@ -56,6 +56,9 @@
 * sipoonkorven kansallispuisto
 * kanoottilla seurasaari ympäri
 * http://www.irtimaasta.fi/
+* http://yle.fi/uutiset/3-8911867 - Pakoon pääkaupungin kiirettä ja hälinää – Tässä 10 saariston ihmettä, jotka odottavat löytäjäänsä
+* http://yle.fi/aihe/artikkeli/2014/09/29/helsinkia-kiertaa-1-maailmansodan-linnoitusketju-katso-kartta
+* http://www.hel.fi/www/helsinki/fi/kartat-ja-liikenne/pyoraily-ja-kavely/pyorareitit/kotiseutupyorailyreitit
 
 ### Experience
 
