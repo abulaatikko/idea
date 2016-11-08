@@ -2,7 +2,7 @@
 
 ## Tested
 
-https://www.google.com/maps/d/u/0/viewer?hl=en&authuser=0&mid=1_Kk31vJLD99QeLG2mkj5HYHfp4Q&ll=60.213124979824656%2C24.84500969999999&z=11
+* https://www.google.com/maps/d/u/0/viewer?mid=1_Kk31vJLD99QeLG2mkj5HYHfp4Q&ll=60.21312497982465%2C24.8450097&z=12
 
 ## Not tested yet
 
