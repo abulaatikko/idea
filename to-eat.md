@@ -6,13 +6,13 @@
 
 ### Beer (and food)
 
-* angletere
-* bar teos
+* angletere (food)
+* bar teos (food)
 * black door
 * brewdog
-* bruuveri
+* bruuveri (food)
 * hilpeä hauki
-* il birrificio
+* il birrificio (food)
 * janoinen lohi
 * kaisla
 * kaunis kampela
@@ -22,11 +22,11 @@
 * pulmu
 * punavuoren ahven
 * roskapankki
-* stadin panimo
-* st. urho's pub
+* stadin panimo (food)
+* st. urho's pub (food)
 * teerenpeli, kamppi
 * vastarannan kiiski
-* viisi penniä
+* viisi penniä (food)
 * william k, annankatu
 
 ### Café
