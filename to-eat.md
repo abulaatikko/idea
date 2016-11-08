@@ -2,7 +2,7 @@
 
 ## Tested
 
-* https://www.google.com/maps/d/u/0/viewer?mid=1I4gtZDHu9jzrzUJUJgOLROJKKaQ&ll=60.18579824652428%2C24.98689055&z=12
+* https://www.google.com/maps/d/u/0/viewer?mid=1I4gtZDHu9jzrzUJUJgOLROJKKaQ&ll=60.184389971771864%2C24.972814317089842&z=13
 
 ### Beer (and food)
 
