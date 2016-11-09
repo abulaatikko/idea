@@ -1,8 +1,10 @@
 # What to do and visit in Helsinki
 
+* https://www.google.fi/maps/@60.2115042,24.7903548,12.04z/data=!4m2!6m1!1s1_Kk31vJLD99QeLG2mkj5HYHfp4Q
+
 ## Tested
 
-* https://www.google.com/maps/d/u/0/viewer?mid=1_Kk31vJLD99QeLG2mkj5HYHfp4Q&ll=60.20860498160986%2C24.95744790190429&z=12
+N/A
 
 ## Not tested yet
 

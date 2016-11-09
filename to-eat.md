@@ -1,8 +1,8 @@
 # Ideas what to eat and drink in Helsinki
 
-## Tested
+* https://www.google.fi/maps/@60.1801741,24.9433829,13.04z/data=!4m2!6m1!1s1I4gtZDHu9jzrzUJUJgOLROJKKaQ
 
-* https://www.google.com/maps/d/u/0/viewer?mid=1I4gtZDHu9jzrzUJUJgOLROJKKaQ&ll=60.184389971771864%2C24.972814317089842&z=13
+## Tested
 
 ### Beer (and food)
 
