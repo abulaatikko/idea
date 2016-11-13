@@ -42,22 +42,20 @@
 * eerikin pippuri
 * fafa's, kamppi
 * guangzhou yuan
-* halikarnas
+* halikarnas (lunch)
 * kampin pippuri
 * mcdonald's, kamppi
-* mcdonald's, ruoholahti
 * meritähti
 * morrison's
 * naughty brgr
 * new bamboo center
-* perho
+* perho (lunch)
 * pikku georgia
 * putte's bar
 * ravintola china
 * roslund, hietalahti
 * singapore hot wok
 * soppakeittiö, hietalahti
-* subway, hietalahti
 * subway, kamppi
 * tin tin tango
 * ukko-munkki
