@@ -27,10 +27,10 @@
 * roskapankki
 * stadin panimo (food)
 * st. urho's pub (food)
+* suomenlinnan panimo (food)
 * teerenpeli, kamppi
 * vastarannan kiiski
 * viisi penniä (food)
-* william k, annankatu
 
 ### Café
 
@@ -94,6 +94,7 @@
 * NEAR http://www.bier-bier.fi/
 * NEAR laiska karhu
 * NEAR storyville
+* oluthuone lehto
 * bryggeri - gastropub
 * bar molotow
 * marian helmi
