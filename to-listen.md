@@ -7,7 +7,6 @@ Most of the podcasts (or audiobooks) are in Finnish.
 * Ajantasan Kaukoputki (http://areena.yle.fi/1-1961721)
 * Biohakkerin käsikirja (https://soundcloud.com/biohakkeri)
 * Brysselin kone (http://areena.yle.fi/1-1517763)
-* Kaukoputki
 * Leikola ja Lähde (http://areena.yle.fi/1-2369214)
 * Mitä maksaa? (http://areena.yle.fi/1-1811853)
 * Perttu Häkkinen (http://areena.yle.fi/1-1792200)
