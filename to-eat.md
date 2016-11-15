@@ -17,6 +17,9 @@
 * kaisla
 * kaunis kampela
 * milli miglia
+* olhus kopenhavn
+* olhus oslo
+* olhus stockholm
 * one pint pub
 * pikkulintu
 * pulmu
@@ -87,14 +90,13 @@
 
 ### Beer (and food)
 
-* NEAR laiska karhu
-* NEAR http://www.bier-bier.fi/
-* NEAR storyville
 * NEAR navy jerry
-* NEAR olhus kopenhavn/stockholm
+* NEAR http://www.bier-bier.fi/
+* NEAR laiska karhu
+* NEAR storyville
+* bryggeri - gastropub
 * bar molotow
 * marian helmi
-* bryggeri - gastropub
 * sivukirjasto
 
 ### Cafés
@@ -120,50 +122,49 @@
 * NEAR http://www.papito.fi/ - kampin chili
 * NEAR http://eat.fi/helsinki/la-soupe soppaa
 * NEAR http://eat.fi/helsinki/street-gastro1 kauppahalli
+* ani
+* http://eat.fi/helsinki/istanbul-grilli
+* Casa Italia puoti
+* lavaklubi - kansallisteatteri, klo 17-21
+* b-smokery
+* friends and brgrs
 * http://eat.fi/helsinki/pashas kebab
 * http://eat.fi/helsinki/soup soppaa
 * splizzeria
-* ani
 * villetta
 * kruunuhaan pitseria
 * http://eat.fi/helsinki/trattoria-corretto kauppahalli italia
 * mäkikupla
-* http://eat.fi/helsinki/istanbul-grilli
 * pizzarium
 * http://eat.fi/helsinki/pizzeria-sopranos
-* friends and brgrs
 * hard rock cafe
 * skiffer - pitsa, erottaja
-* Casa Italia puoti
 * http://www.siilinpesa.com/menu/
 * http://chalupa.fi/fi/menu/
 * http://eat.fi/helsinki/rulla uus
-* lavaklubi - kansallisteatteri, klo 17-21
 * vivo's, roba
 * teurastamo
-* b-smokery
 
 ### Exotic
 
-* NEAR konstan möljä
+* NEAR http://eat.fi/helsinki/twisted-street-kitchen
+* NEAR http://eat.fi/helsinki/thai-orchid1
 * NEAR OmNam
 * NEAR sky express
 * NEAR maithai
 * NEAR kabuki
 * NEAR WOLT http://www.ravintolamonal.fi/menu.html intia
-* NEAR http://eat.fi/helsinki/twisted-street-kitchen 
 * NEAR http://eat.fi/helsinki/trattoria-rivoletto
-* NEAR http://eat.fi/helsinki/thai-orchid1
 * NEAR http://eat.fi/helsinki/golden-leaf-asian-cuisine kanton* http://eat.fi/helsinki/domo japani
 * old jerusalem
-* Cholo Mexican Street Kitchen - meksiko, lönkka
 * sandro
+* onda - perulainen brunssi
+* Cholo Mexican Street Kitchen - meksiko, lönkka
 * http://jamaicanmamas.com/ jamaica kurvi
 * http://eat.fi/helsinki/hum-hum egypti
 * http://eat.fi/helsinki/pelmenit
 * http://eat.fi/helsinki/brasileira 
 * http://eat.fi/helsinki/sepia-sish-kebab-restaurant kurdi
-* onda - perulainen brunssi
 * http://eat.fi/helsinki/antiokia-atabar turkki
 * NEAR http://www.meilin-fi.com/hot-pot
 * http://eat.fi/helsinki/zorbas
@@ -185,9 +186,9 @@
 
 ### 30e+
 
+* NEAR troikka
 * NEAR http://www.kannas.fi/menu
 * NEAR http://www.konstanmolja.fi/paivallinen
-* NEAR troikka
 * hotel kämp aamiainen klo 6-10, 7-11
 * http://eat.fi/helsinki/toolon-savel
 * elite
