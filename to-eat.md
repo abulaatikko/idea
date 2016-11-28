@@ -58,6 +58,7 @@
 * ravintola china
 * roslund, hietalahti
 * singapore hot wok
+* sky express
 * soppakeittiö, hietalahti
 * subway, kamppi
 * tin tin tango
@@ -143,15 +144,12 @@
 * http://www.siilinpesa.com/menu/
 * http://chalupa.fi/fi/menu/
 * http://eat.fi/helsinki/rulla uus
-* vivo's, roba
 * teurastamo
 
 ### Exotic
 
 * NEAR http://eat.fi/helsinki/twisted-street-kitchen
 * NEAR http://eat.fi/helsinki/thai-orchid1
-* NEAR OmNam
-* NEAR sky express
 * NEAR maithai
 * NEAR kabuki
 * NEAR WOLT http://www.ravintolamonal.fi/menu.html intia
