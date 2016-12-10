@@ -76,6 +76,7 @@
 * krog madame
 * maya
 * oiva
+* onda
 * queen sheba
 * silvoplee
 * weeruska
@@ -157,7 +158,6 @@
 * NEAR http://eat.fi/helsinki/golden-leaf-asian-cuisine kanton* http://eat.fi/helsinki/domo japani
 * old jerusalem
 * sandro
-* onda - perulainen brunssi
 * Cholo Mexican Street Kitchen - meksiko, lönkka
 * http://jamaicanmamas.com/ jamaica kurvi
 * http://eat.fi/helsinki/hum-hum egypti
