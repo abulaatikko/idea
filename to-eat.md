@@ -54,6 +54,7 @@
 * new bamboo center
 * perho (lunch)
 * pikku georgia
+* pinto bstaurant (thai kurvi)
 * putte's bar
 * ravintola china
 * roslund, hietalahti
@@ -169,7 +170,6 @@
 * http://eat.fi/helsinki/zorbas
 * http://eat.fi/helsinki/bodo ramen kallio
 * villa thai
-* http://eat.fi/helsinki/pinto-bstaurant thai kurvi
 * pompei - italialainen krunikka
 * trattoria sogno - töölö, italia
 * http://www.lungi.fi/ruoka/
@@ -177,7 +177,7 @@
 * Zucchini kasvisruokaa
 * http://eat.fi/helsinki/bellevue venäläinen brunssi
 * http://eat.fi/helsinki/kokomo-tikibar-room trendi
-* https://www.tripadvisor.fi/Restaurant_Review-g189934-d8594915-Reviews-Chengdu_Ravintola-Helsinki_Uusimaa.html
+* http://www.chengduravintola.fi/ kulosaari
 * http://patrona.fi/ meksiko
 * http://restaurantecocogrill.com/ venezuela
 * http://eat.fi/en/helsinki/codle vietnam kurvi
