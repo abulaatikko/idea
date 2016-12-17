@@ -156,7 +156,8 @@
 * NEAR kabuki
 * NEAR WOLT http://www.ravintolamonal.fi/menu.html intia
 * NEAR http://eat.fi/helsinki/trattoria-rivoletto
-* NEAR http://eat.fi/helsinki/golden-leaf-asian-cuisine kanton* http://eat.fi/helsinki/domo japani
+* NEAR http://eat.fi/helsinki/golden-leaf-asian-cuisine kanton
+* http://eat.fi/helsinki/domo japani
 * old jerusalem
 * sandro
 * Cholo Mexican Street Kitchen - meksiko, lönkka
