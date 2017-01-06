@@ -8,7 +8,6 @@
 
 * angletere (food)
 * bar teos (food)
-* black door
 * brewdog
 * bruuveri (food)
 * hilpeä hauki
@@ -18,13 +17,12 @@
 * kaunis kampela
 * milli miglia
 * olhus kopenhavn
-* olhus oslo
 * olhus stockholm
 * one pint pub
 * pikkulintu
 * pulmu
 * punavuoren ahven
-* roskapankki
+* roskapankki (cheapest beer in town)
 * stadin panimo (food)
 * st. urho's pub (food)
 * suomenlinnan panimo (food)
@@ -38,33 +36,33 @@
 
 ### <15e
 
-* bar 9
-* dennis, bulevardi
-* döner harju
-* casa mare
-* eerikin pippuri
-* fafa's, kamppi
-* guangzhou yuan
-* halikarnas (lunch)
-* kampin pippuri
-* mcdonald's, kamppi
-* meritähti
-* morrison's
-* naughty brgr
-* new bamboo center
-* perho (lunch)
-* pikku georgia
-* pinto bstaurant (thai kurvi)
-* putte's bar
-* ravintola china
-* roslund, hietalahti
-* singapore hot wok
-* sky express
-* soppakeittiö, hietalahti
-* subway, kamppi
-* tin tin tango
-* ukko-munkki
-* zio pepe
+* **bar 9** (wok)
+* **dennis, bulevardi** (pizza)
+* **döner harju** (premium kebab)
+* **casa mare** (pizza)
+* **eerikin pippuri** (cheap kebab)
+* **fafa's, kamppi** (pita)
+* **halikarnas** (turkish buffet)
+* **kampin pippuri** (cheap kebab)
+* **mcdonald's** kamppi
+* **meritähti** (pizza)
+* **morrison's** (burger)
+* **naughty brgr** (burger)
+* **new bamboo center** (cheap chinese)
+* **papito** (cheap mexican)
+* **perho** (lunch)
+* **pikku georgia** (georgian)
+* **pinto bstaurant** (thai)
+* **putte's bar** (pizza)
+* **ravintola china** (chinese)
+* **roslund, hietalahti** (burger)
+* **singapore hot wok**
+* **sky express** (cheap pizza)
+* **soppakeittiö, hietalahti** (soup)
+* **subway, kamppi**
+* **tin tin tango** (breakfast)
+* **ukko-munkki** (pizza)
+* **zio pepe** (pizza)
 
 ### 15-30e
 
@@ -97,6 +95,7 @@
 * NEAR http://www.bier-bier.fi/
 * NEAR laiska karhu
 * NEAR storyville
+* black door
 * oluthuone lehto
 * bryggeri - gastropub
 * bar molotow
@@ -123,7 +122,6 @@
 * NEAR: tamarin, kamppi
 * NEAR: factory
 * NEAR: dennis, kamppi
-* NEAR http://www.papito.fi/ - kampin chili
 * NEAR http://eat.fi/helsinki/la-soupe soppaa
 * NEAR http://eat.fi/helsinki/street-gastro1 kauppahalli
 * ani
@@ -183,6 +181,7 @@
 * http://restaurantecocogrill.com/ venezuela
 * http://eat.fi/en/helsinki/codle vietnam kurvi
 * Sen Chay - kesärullat
+* pastor
 
 ### 30e+
 

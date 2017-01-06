@@ -12,9 +12,9 @@ N/A
 
 * villa gyllenberg
 * dirichsen
-* ham
 * amos anderson
 * helsingin taidehalli
+* emma
 
 ### Museums
 
@@ -26,22 +26,19 @@ N/A
 * hakasalmen huvila
 * teatterimuseo
 * hotelli ja ravintolamuseo
-* hvitträsk museo
 * suomen pankin rahamuseo
 * yliopistomuseo
 * helsingin kaupunginmuseo
 * suomen ilmailumuseo (vantaa)
 * ilmatorjuntamuseo (järvenpää)
 * rautatiemuseo (hyvinkää)
-* ehrensvärd-museo (kirkkonummi)
+* ehrensvärd-museo (suomenlinna)
 * apulanta museo (lahti)
 
 ### Architecture
 
 * säätytalo http://vnk.fi/ministerio/saatytalo
 * ruiskumestarin talo
-* munkkivuoren kirkko
-* kannelmäen kirkko
 * sederholmin talo
 * brumerin talo
 * östersundomin kirkko
