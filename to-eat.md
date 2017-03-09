@@ -2,16 +2,16 @@
 
 * https://www.google.fi/maps/@60.1801741,24.9433829,13.04z/data=!4m2!6m1!1s1I4gtZDHu9jzrzUJUJgOLROJKKaQ
 
-## Tested
+## Tested (and recommended)
 
 ### Beer (and food)
 
-* angletere (food)
+* angletere (boring food)
 * bar teos (food)
 * brewdog
 * bruuveri (food)
 * hilpeä hauki
-* il birrificio (food)
+* il birrificio (good food)
 * janoinen lohi
 * kaisla
 * kaunis kampela
@@ -23,6 +23,7 @@
 * pulmu
 * punavuoren ahven
 * roskapankki (cheapest beer in town)
+* sivukirjasto
 * stadin panimo (food)
 * st. urho's pub (food)
 * suomenlinnan panimo (food)
@@ -37,6 +38,7 @@
 ### <15e
 
 * **bar 9** (wok)
+* **classic pizza** (pizza)
 * **dennis, bulevardi** (pizza)
 * **döner harju** (premium kebab)
 * **casa mare** (pizza)
@@ -44,7 +46,7 @@
 * **fafa's, kamppi** (pita)
 * **halikarnas** (turkish buffet)
 * **kampin pippuri** (cheap kebab)
-* **mcdonald's** kamppi
+* **mcdonald's** kamppi (burger)
 * **meritähti** (pizza)
 * **morrison's** (burger)
 * **naughty brgr** (burger)
@@ -59,7 +61,7 @@
 * **singapore hot wok**
 * **sky express** (cheap pizza)
 * **soppakeittiö, hietalahti** (soup)
-* **subway, kamppi**
+* **subway, kamppi** (sandwich)
 * **tin tin tango** (breakfast)
 * **ukko-munkki** (pizza)
 * **zio pepe** (pizza)
@@ -74,20 +76,25 @@
 * korea house
 * krog madame
 * maya
-* oiva
-* onda
-* queen sheba
-* silvoplee
+* **oiva** (good brunch)
+* **onda** (peruvian)
+* **rymy-eetu** (tavern)
+* **queen sheba** (ethiopian)
+* **silvoplee** (vegetarian)
 * weeruska
 
 ### 30e+
 
 * atelje finne
-* lyon
 * farang
+* gaijin
+* lyon
+* roster
 * saslik
 
 ## Not tested yet
+
+* kampin ravintolakortteli
 
 ### Beer (and food)
 
@@ -100,7 +107,6 @@
 * bryggeri - gastropub
 * bar molotow
 * marian helmi
-* sivukirjasto
 
 ### Cafés
 
@@ -129,7 +135,6 @@
 * Casa Italia puoti
 * lavaklubi - kansallisteatteri, klo 17-21
 * b-smokery
-* friends and brgrs
 * http://eat.fi/helsinki/pashas kebab
 * http://eat.fi/helsinki/soup soppaa
 * splizzeria
@@ -145,9 +150,11 @@
 * http://chalupa.fi/fi/menu/
 * http://eat.fi/helsinki/rulla uus
 * teurastamo
+* kustaa vaasa
 
 ### Exotic
 
+* WOLT Kimchi Wagon
 * NEAR http://eat.fi/helsinki/twisted-street-kitchen
 * NEAR http://eat.fi/helsinki/thai-orchid1
 * NEAR maithai
@@ -155,6 +162,8 @@
 * NEAR WOLT http://www.ravintolamonal.fi/menu.html intia
 * NEAR http://eat.fi/helsinki/trattoria-rivoletto
 * NEAR http://eat.fi/helsinki/golden-leaf-asian-cuisine kanton
+* NEAR pueblo bar
+* levain-leipomoravintola
 * http://eat.fi/helsinki/domo japani
 * old jerusalem
 * sandro
@@ -176,12 +185,12 @@
 * Zucchini kasvisruokaa
 * http://eat.fi/helsinki/bellevue venäläinen brunssi
 * http://eat.fi/helsinki/kokomo-tikibar-room trendi
-* http://www.chengduravintola.fi/ kulosaari
 * http://patrona.fi/ meksiko
 * http://restaurantecocogrill.com/ venezuela
 * http://eat.fi/en/helsinki/codle vietnam kurvi
 * Sen Chay - kesärullat
 * pastor
+* kotot
 
 ### 30e+
 
@@ -198,9 +207,10 @@
 * http://eat.fi/helsinki/sea-horse
 * http://rafla.fi/amigo/fi/etusivu pihvi
 * kolme kruunua - 50-luvun ruokaa
+* sinne
+* linnankellari
 * http://eat.fi/helsinki/lappi-ravintola
 * juuri, kuu, savoy, muru, ask, spis, finnjävel, toca, pastis, a21, olo, demo, ragu, natura, emo
-* gaijin - japanilainen fine
 * http://eat.fi/helsinki/passio-keittio-ja-baari fine
 * grön - vihreetä
 * baskeri & basso

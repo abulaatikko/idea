@@ -14,7 +14,6 @@ N/A
 * dirichsen
 * amos anderson
 * helsingin taidehalli
-* emma
 
 ### Museums
 
@@ -66,7 +65,10 @@ N/A
 * iso vasikkasaari
 * pasilan kirjasto
 * musiikkitalo
+* savoy-teatteri
+* raivohuone
+* vallisaari
+* kaksi kanaa -teatteriravintola
 * escape rooms
 * helsingin observatorio
-* aleksanterin teatteri
 * http://yle.fi/uutiset/pasilan_kivilinna_suljettiin_aidoilla__rakentaminen_ja_vierailut_halutaan_lopettaa/9097807
