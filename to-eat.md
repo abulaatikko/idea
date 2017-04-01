@@ -24,6 +24,7 @@
 * punavuoren ahven
 * roskapankki (cheapest beer in town)
 * sivukirjasto
+* sori taproom (food)
 * stadin panimo (food)
 * st. urho's pub (food)
 * suomenlinnan panimo (food)
@@ -34,6 +35,14 @@
 ### Café
 
 * helsingin jäätelötehdas -kioski
+
+### Lunch
+
+* **factory** (home food, salads)
+* **kabuki** (japanese)
+* **kampin pippuri** (turkish buffet)
+* **perho** (restaurant school)
+* **ravintola china** (cantonese)
 
 ### <15e
 
@@ -52,7 +61,6 @@
 * **naughty brgr** (burger)
 * **new bamboo center** (cheap chinese)
 * **papito** (cheap mexican)
-* **perho** (lunch)
 * **pikku georgia** (georgian)
 * **pinto bstaurant** (thai)
 * **putte's bar** (pizza)
@@ -68,29 +76,30 @@
 
 ### 15-30e
 
-* cella
-* hoshito
-* georgian house
-* kim's tapas
-* konnichiwa
-* korea house
-* krog madame
-* maya
+* **cella** (traditional)
+* **hoshito** (twisted asian)
+* **georgian house** (georgian)
+* **kim's tapas** (spanish)
+* **konnichiwa** (sushi buffet)
+* **korea house** (korean)
+* **krog madame** (tapas)
+* **maya** (south american)
 * **oiva** (good brunch)
 * **onda** (peruvian)
 * **rymy-eetu** (tavern)
 * **queen sheba** (ethiopian)
 * **silvoplee** (vegetarian)
-* weeruska
+* **weeruska** (family)
 
 ### 30e+
 
-* atelje finne
-* farang
-* gaijin
-* lyon
-* roster
-* saslik
+* **atelje finne**
+* **bellevue** (russian brunch)
+* **farang** (modern asian)
+* **gaijin** (modern asian)
+* **lyon** (french)
+* **roster** (fine)
+* **saslik** (russian)
 
 ## Not tested yet
 
@@ -126,7 +135,6 @@
 
 * NEAR: vivo's, kamppi
 * NEAR: tamarin, kamppi
-* NEAR: factory
 * NEAR: dennis, kamppi
 * NEAR http://eat.fi/helsinki/la-soupe soppaa
 * NEAR http://eat.fi/helsinki/street-gastro1 kauppahalli
@@ -167,6 +175,7 @@
 * http://eat.fi/helsinki/domo japani
 * old jerusalem
 * sandro
+* omnam
 * Cholo Mexican Street Kitchen - meksiko, lönkka
 * http://jamaicanmamas.com/ jamaica kurvi
 * http://eat.fi/helsinki/hum-hum egypti
@@ -183,14 +192,13 @@
 * http://www.lungi.fi/ruoka/
 * lemon grass kallio thaikku
 * Zucchini kasvisruokaa
-* http://eat.fi/helsinki/bellevue venäläinen brunssi
 * http://eat.fi/helsinki/kokomo-tikibar-room trendi
 * http://patrona.fi/ meksiko
 * http://restaurantecocogrill.com/ venezuela
 * http://eat.fi/en/helsinki/codle vietnam kurvi
 * Sen Chay - kesärullat
 * pastor
-* kotot
+* koto
 
 ### 30e+
 
