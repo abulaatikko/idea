@@ -34,45 +34,52 @@
 
 ### Café
 
-* helsingin jäätelötehdas -kioski
+* **fazer café**, kluuvi
+* **helsingin jäätelötehdas**, hietaniemi
 
 ### Lunch
 
-* **factory** (home food, salads)
-* **kabuki** (japanese)
-* **kampin pippuri** (turkish buffet)
-* **perho** (restaurant school)
-* **ravintola china** (cantonese)
+* **factory**, kamppi (home food, salads)
+* **kabuki**, kamppi (japanese)
+* **kampin pippuri**, kamppi (turkish buffet)
+* **perho**, töölö (restaurant school)
+* **ravintola china**, kamppi (cantonese)
 
 ### <15e
 
-* **bar 9** (wok)
-* **classic pizza** (pizza)
-* **dennis, bulevardi** (pizza)
-* **döner harju** (premium kebab)
-* **casa mare** (pizza)
-* **eerikin pippuri** (cheap kebab)
-* **fafa's, kamppi** (pita)
-* **halikarnas** (turkish buffet)
-* **kampin pippuri** (cheap kebab)
+* **bar 9**, kamppi (wok)
+* **chalupa**, kamppi (mexican)
+* **classic pizza**, kluuvi (wannabe italian pizzeria)
+* **dennis**, bulevardi (wannabe italian pizzeria)
+* **döner harju**, kallio (premium kebab)
+* **casa mare**, lauttasaari (family pizza)
+* **eerikin pippuri**, kamppi (kebab)
+* **fafa's**, kamppi (pita)
+* **halikarnas**, kamppi (turkish buffet)
+* **kampin pippuri**, kamppi (kebab)
+* **kimchi wagon**, kamppi (korean)
+* **mad wok**, kamppi (chinese)
 * **mcdonald's** kamppi (burger)
-* **meritähti** (pizza)
-* **morrison's** (burger)
-* **naughty brgr** (burger)
-* **new bamboo center** (cheap chinese)
-* **papito** (cheap mexican)
-* **pikku georgia** (georgian)
-* **pinto bstaurant** (thai)
-* **putte's bar** (pizza)
-* **ravintola china** (chinese)
-* **roslund, hietalahti** (burger)
-* **singapore hot wok**
-* **sky express** (cheap pizza)
-* **soppakeittiö, hietalahti** (soup)
-* **subway, kamppi** (sandwich)
-* **tin tin tango** (breakfast)
-* **ukko-munkki** (pizza)
-* **zio pepe** (pizza)
+* **meritähti**, ruoholahti (finnish pub pizza)
+* **morrison's**, kamppi (burger)
+* **naughty brgr**, kamppi (burger)
+* **new bamboo center**, kamppi (chinese)
+* **old jerusalem**, lehtisaari (middle east)
+* **papito**, kamppi (mexican)
+* **pikku georgia**, kallio (georgian)
+* **pinto bstaurant**, kallio (thai)
+* **pizzarium**, kamppi (pizza slizes)
+* **putte's bar**, kamppi (trendy pizza)
+* **ravintola china**, kamppi (chinese)
+* **roslund**, hietalahti (burger)
+* **singapore hot wok**, kamppi
+* **sky express**, kamppi (turkish pizza)
+* **soppakeittiö**, hietalahti (soup)
+* **subway**, kamppi (sandwich)
+* **tin tin tango**, töölö (breakfast)
+* **ukko-munkki**, munkkiniemi (finnish pizza)
+* **villetta**, töölö (italian pizza)
+* **zio pepe**, kamppi (italian pizza)
 
 ### 15-30e
 
@@ -103,8 +110,6 @@
 
 ## Not tested yet
 
-* kampin ravintolakortteli
-
 ### Beer (and food)
 
 * NEAR navy jerry
@@ -123,7 +128,6 @@
 * NEAR http://eat.fi/helsinki/cafe aasia
 * http://goodlifecoffee.fi/
 * cafe jugend
-* fazer cafe
 * http://chjoko.com/ - suklaata
 * http://eat.fi/helsinki/cafe-kuppimuffini
 * ekberg - kahvila 1800 luvulta
@@ -138,7 +142,8 @@
 * NEAR: dennis, kamppi
 * NEAR http://eat.fi/helsinki/la-soupe soppaa
 * NEAR http://eat.fi/helsinki/street-gastro1 kauppahalli
-* ani
+* ani (turkish buffet)
+* levant
 * http://eat.fi/helsinki/istanbul-grilli
 * Casa Italia puoti
 * lavaklubi - kansallisteatteri, klo 17-21
@@ -146,23 +151,18 @@
 * http://eat.fi/helsinki/pashas kebab
 * http://eat.fi/helsinki/soup soppaa
 * splizzeria
-* villetta
 * kruunuhaan pitseria
 * http://eat.fi/helsinki/trattoria-corretto kauppahalli italia
 * mäkikupla
-* pizzarium
 * http://eat.fi/helsinki/pizzeria-sopranos
 * hard rock cafe
 * skiffer - pitsa, erottaja
 * http://www.siilinpesa.com/menu/
-* http://chalupa.fi/fi/menu/
 * http://eat.fi/helsinki/rulla uus
 * teurastamo
-* kustaa vaasa
 
 ### Exotic
 
-* WOLT Kimchi Wagon
 * NEAR http://eat.fi/helsinki/twisted-street-kitchen
 * NEAR http://eat.fi/helsinki/thai-orchid1
 * NEAR maithai
@@ -173,9 +173,8 @@
 * NEAR pueblo bar
 * levain-leipomoravintola
 * http://eat.fi/helsinki/domo japani
-* old jerusalem
-* sandro
 * omnam
+* mezza
 * Cholo Mexican Street Kitchen - meksiko, lönkka
 * http://jamaicanmamas.com/ jamaica kurvi
 * http://eat.fi/helsinki/hum-hum egypti
@@ -225,7 +224,3 @@
 * http://www.kuurna.fi/
 * http://www.caverna.fi/ruoka/ lihaa
 * solna - munkkiniemi
-
-### Lunch
-
-* borneo lounas
