@@ -4,26 +4,30 @@
 
 ## Tested
 
-N/A
+TODO: add here the best museums from the Google Maps.
+
+Recently visited (2017):
+
+* villa gyllenberg
+* dirichsen
+* amos anderson
+* alvar aallon koti (Riihitie 20)
+* alvar aallon ateljee (Tiilimäki 20)
+* teatterimuseo
+* sipoonkorven kansallispuisto
 
 ## Not tested yet
 
 ### Galleries
 
-* villa gyllenberg
-* dirichsen
-* amos anderson
 * helsingin taidehalli
 
 ### Museums
 
-* alvar aallon koti (Riihitie 20)
-* alvar aallon ateljee (Tiilimäki 20)
 * arabian museo
 * gallen-kallela
 * rahamuseo
 * hakasalmen huvila
-* teatterimuseo
 * hotelli ja ravintolamuseo
 * suomen pankin rahamuseo
 * yliopistomuseo
@@ -51,7 +55,6 @@ N/A
 * huippu
 * zippy
 * taivaskallio
-* sipoonkorven kansallispuisto
 * kanoottilla seurasaari ympäri
 * http://www.irtimaasta.fi/
 * http://yle.fi/uutiset/3-8911867 - Pakoon pääkaupungin kiirettä ja hälinää – Tässä 10 saariston ihmettä, jotka odottavat löytäjäänsä
