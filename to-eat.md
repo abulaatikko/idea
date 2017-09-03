@@ -10,18 +10,18 @@
 * bar teos (food)
 * brewdog
 * bruuveri (food)
-* hilpeä hauki
 * il birrificio (good food)
-* janoinen lohi
-* kaisla
-* kaunis kampela
-* milli miglia
+* janoinen lohi (belgian beer)
+* kaunis kampela (belgian beer)
+* laiska karhu (cheap)
+* milli miglia (italian racing theme)
+* old fox (cheap)
 * olhus kopenhavn
 * olhus stockholm
 * one pint pub
-* pikkulintu
-* pulmu
-* punavuoren ahven
+* pikkulintu (beer nerds)
+* pulmu (airplane theme)
+* punavuoren ahven (belgian beer)
 * roskapankki (cheapest beer in town)
 * sivukirjasto
 * sori taproom (food)
@@ -29,7 +29,7 @@
 * st. urho's pub (food)
 * suomenlinnan panimo (food)
 * teerenpeli, kamppi
-* vastarannan kiiski
+* vastarannan kiiski (belgian beer)
 * viisi penniä (food)
 
 ### Café
@@ -60,7 +60,6 @@
 * **kimchi wagon**, kamppi (korean)
 * **mad wok**, kamppi (chinese)
 * **mcdonald's** kamppi (burger)
-* **meritähti**, ruoholahti (finnish pub pizza)
 * **morrison's**, kamppi (burger)
 * **naughty brgr**, kamppi (burger)
 * **new bamboo center**, kamppi (chinese)
@@ -114,7 +113,6 @@
 
 * NEAR navy jerry
 * NEAR http://www.bier-bier.fi/
-* NEAR laiska karhu
 * NEAR storyville
 * black door
 * oluthuone lehto
