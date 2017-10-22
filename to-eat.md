@@ -7,7 +7,7 @@
 ### Beer (and food)
 
 * angletere (boring food)
-* bar teos (food)
+* bar teos (wine, tapas)
 * brewdog
 * bruuveri (food)
 * il birrificio (good food)
@@ -42,6 +42,7 @@
 * **factory**, kamppi (home food, salads)
 * **kabuki**, kamppi (japanese)
 * **kampin pippuri**, kamppi (turkish buffet)
+* **merimakasiini**, punavuori (fish, soup, salad)
 * **perho**, töölö (restaurant school)
 * **ravintola china**, kamppi (cantonese)
 
@@ -90,6 +91,7 @@
 * **korea house** (korean)
 * **krog madame** (tapas)
 * **maya** (south american)
+* **mei lin** (chinese, hot pot)
 * **oiva** (good brunch)
 * **onda** (peruvian)
 * **rymy-eetu** (tavern)
@@ -180,7 +182,6 @@
 * http://eat.fi/helsinki/brasileira 
 * http://eat.fi/helsinki/sepia-sish-kebab-restaurant kurdi
 * http://eat.fi/helsinki/antiokia-atabar turkki
-* NEAR http://www.meilin-fi.com/hot-pot
 * http://eat.fi/helsinki/zorbas
 * http://eat.fi/helsinki/bodo ramen kallio
 * villa thai
