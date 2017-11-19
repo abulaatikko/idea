@@ -2,7 +2,7 @@
 
 Most of the podcasts (or audiobooks) are in Finnish.
 
-## Tested
+## Tested (best first)
 
 * Ajantasan Kaukoputki <http://areena.yle.fi/1-1961721>
 * Apunen <http://jakso.fi/podcastit?id=358d68213770462eb1e6>
@@ -18,6 +18,7 @@ Most of the podcasts (or audiobooks) are in Finnish.
 * The Tim Ferriss Show <http://fourhourworkweek.com/podcast/>
 * Tiedeykkönen <http://areena.yle.fi/1-1403833>
 * Tyyppimuunnos <http://tyyppimuunnos.fi/episodes>
+* Vikasietotila <http://areena.yle.fi/1-3356709>
 
 ## Not tested yet
 
@@ -25,4 +26,3 @@ Most of the podcasts (or audiobooks) are in Finnish.
 * Kipinä <http://www.jussivenalainen.fi/kipinapodcast/>
 * Tiedetv <https://www.youtube.com/channel/UCcX5vCK1fNj6Buf7OotptUw>
 * Tuplaamo <http://tuplaamo.fi/blogi/>
-* Vikasietotila <http://areena.yle.fi/1-3356709>
