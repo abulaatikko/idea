@@ -225,3 +225,14 @@ bolded = exceptionally good
 * http://www.kuurna.fi/
 * http://www.caverna.fi/ruoka/ lihaa
 * solna - munkkiniemi
+
+## Best pizzerias in Finland
+
+* Camillo, Haukipudas
+* Puistopaviljonki, Kemi
+* Ullan Krouvi, Kuopio
+* Capero, Savonlinna
+* Napoli, Tampere
+* St. Urho's Pub, Helsinki
+
+Good pizzeria: personal atmosphere, good minced meat and [traditional salad](http://karppaus.info/resepti/resepti.php?id=1340) available
