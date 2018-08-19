@@ -21,7 +21,7 @@ bolded = exceptionally good
 * olhus kopenhavn
 * olhus stockholm
 * **one pint pub**
-* pikkulintu (beer nerds)
+* **pikkulintu** (beer nerds)
 * pulmu (airplane theme)
 * punavuoren ahven (belgian beer)
 * roskapankki (cheapest beer in town)
@@ -52,6 +52,7 @@ bolded = exceptionally good
 
 ### <15e
 
+* **ani**, eira (turkish buffet)
 * **bar 9**, kamppi (wok)
 * chalupa, kamppi (mexican)
 * classic pizza, kluuvi (wannabe italian pizzeria)
@@ -59,7 +60,7 @@ bolded = exceptionally good
 * **döner harju**, kallio (premium kebab)
 * casa mare, lauttasaari (family pizza)
 * eerikin pippuri, kamppi (kebab)
-* fafa's, kamppi (pita)
+* **fafa's**, kamppi (pita)
 * kampin pippuri, kamppi (kebab)
 * kimchi wagon, kamppi (korean)
 * mad wok, kamppi (chinese)
@@ -96,6 +97,7 @@ bolded = exceptionally good
 * **mei lin** (chinese, hot pot)
 * oiva (good brunch)
 * onda (peruvian)
+* pobre (filipino)
 * rymy-eetu (tavern)
 * queen sheba (ethiopian)
 * silvoplee (vegetarian)
@@ -117,7 +119,6 @@ bolded = exceptionally good
 
 * NEAR navy jerry
 * NEAR http://www.bier-bier.fi/
-* NEAR storyville
 * black door
 * oluthuone lehto
 * bryggeri - gastropub
@@ -144,7 +145,6 @@ bolded = exceptionally good
 * NEAR: dennis, kamppi
 * NEAR http://eat.fi/helsinki/la-soupe soppaa
 * NEAR http://eat.fi/helsinki/street-gastro1 kauppahalli
-* ani (turkish buffet)
 * levant
 * http://eat.fi/helsinki/istanbul-grilli
 * Casa Italia puoti
@@ -165,6 +165,8 @@ bolded = exceptionally good
 
 ### Exotic
 
+* 5th floor of kamppi shopping center
+* brokadi (sitsuan)
 * NEAR http://eat.fi/helsinki/twisted-street-kitchen
 * NEAR http://eat.fi/helsinki/thai-orchid1
 * NEAR maithai
