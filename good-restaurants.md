@@ -41,6 +41,7 @@ bolded = exceptionally good
 
 ### Lunch
 
+* cafe rouge (french home food)
 * factory, kamppi (home food, salads)
 * **halikarnas**, kamppi (turkish buffet)
 * kabuki, kamppi (japanese)
