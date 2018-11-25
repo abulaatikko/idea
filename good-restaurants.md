@@ -14,6 +14,7 @@ bolded = exceptionally good
 * bruuveri (food)
 * **il birrificio** (good food)
 * janoinen lohi (belgian beer)
+* kannas, kamppi (good food)
 * kaunis kampela (belgian beer)
 * laiska karhu (cheap)
 * milli miglia (italian racing theme)
@@ -22,6 +23,7 @@ bolded = exceptionally good
 * olhus stockholm
 * **one pint pub**
 * **pikkulintu** (beer nerds)
+* pub ikkuna (cheap)
 * pulmu (airplane theme)
 * punavuoren ahven (belgian beer)
 * roskapankki (cheapest beer in town)
@@ -88,10 +90,12 @@ bolded = exceptionally good
 
 ### 15-30e
 
+* b-smokery, sörnäinen (smoked meat)
 * cella (traditional)
 * hoshito (twisted asian)
 * **georgian house** (georgian)
 * **kim's tapas** (spanish)
+* kolme kruunua, kruunuhaka (finnish)
 * korea house (korean)
 * krog madame (tapas)
 * maya (south american)
@@ -150,7 +154,6 @@ bolded = exceptionally good
 * http://eat.fi/helsinki/istanbul-grilli
 * Casa Italia puoti
 * lavaklubi - kansallisteatteri, klo 17-21
-* b-smokery
 * http://eat.fi/helsinki/pashas kebab
 * http://eat.fi/helsinki/soup soppaa
 * splizzeria
@@ -205,8 +208,6 @@ bolded = exceptionally good
 
 ### 30e+
 
-* NEAR troikka
-* NEAR http://www.kannas.fi/menu
 * NEAR http://www.konstanmolja.fi/paivallinen
 * hotel kämp aamiainen klo 6-10, 7-11
 * http://eat.fi/helsinki/toolon-savel
@@ -217,7 +218,6 @@ bolded = exceptionally good
 * http://www.kom-ravintola.fi/ruokalistat.html
 * http://eat.fi/helsinki/sea-horse
 * http://rafla.fi/amigo/fi/etusivu pihvi
-* kolme kruunua - 50-luvun ruokaa
 * sinne
 * linnankellari
 * http://eat.fi/helsinki/lappi-ravintola

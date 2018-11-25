@@ -11,6 +11,7 @@ bold = exceptionally good
 * Biohakkerin käsikirja <https://soundcloud.com/biohakkeri>
 * Brysselin kone <http://areena.yle.fi/1-1517763>
 * **Jari Sarasvuo** <http://areena.yle.fi/1-1791080>
+* Juuso Pekkinen <https://areena.yle.fi/1-3945773>
 * **Leikola ja Lähde** <http://areena.yle.fi/1-2369214>
 * Mikko "Peltsi" Peltola <https://areena.yle.fi/1-2287556>
 * Mitä maksaa? <http://areena.yle.fi/1-1811853>
