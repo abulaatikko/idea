@@ -10,6 +10,7 @@ bolded = exceptionally good
 
 * angletere (boring food)
 * bar teos (wine, tapas)
+* bier bier
 * brewdog
 * bruuveri (food)
 * **il birrificio** (good food)
@@ -40,9 +41,11 @@ bolded = exceptionally good
 
 * fazer café, kluuvi
 * helsingin jäätelötehdas, hietaniemi
+* good life coffee, kallio
 
 ### Lunch
 
+* brokadi (sichuan, vallila)
 * cafe rouge (french home food)
 * factory, kamppi (home food, salads)
 * **halikarnas**, kamppi (turkish buffet)
@@ -123,7 +126,6 @@ bolded = exceptionally good
 ### Beer (and food)
 
 * NEAR navy jerry
-* NEAR http://www.bier-bier.fi/
 * black door
 * oluthuone lehto
 * bryggeri - gastropub
@@ -134,7 +136,6 @@ bolded = exceptionally good
 
 * NEAR tanskalaiset leivät
 * NEAR http://eat.fi/helsinki/cafe aasia
-* http://goodlifecoffee.fi/
 * cafe jugend
 * http://chjoko.com/ - suklaata
 * http://eat.fi/helsinki/cafe-kuppimuffini
@@ -150,7 +151,6 @@ bolded = exceptionally good
 * NEAR: dennis, kamppi
 * NEAR http://eat.fi/helsinki/la-soupe soppaa
 * NEAR http://eat.fi/helsinki/street-gastro1 kauppahalli
-* levant
 * http://eat.fi/helsinki/istanbul-grilli
 * Casa Italia puoti
 * lavaklubi - kansallisteatteri, klo 17-21
@@ -170,7 +170,6 @@ bolded = exceptionally good
 ### Exotic
 
 * 5th floor of kamppi shopping center
-* brokadi (sitsuan)
 * NEAR http://eat.fi/helsinki/twisted-street-kitchen
 * NEAR http://eat.fi/helsinki/thai-orchid1
 * NEAR maithai
@@ -220,6 +219,7 @@ bolded = exceptionally good
 * http://rafla.fi/amigo/fi/etusivu pihvi
 * sinne
 * linnankellari
+* pontus
 * http://eat.fi/helsinki/lappi-ravintola
 * juuri, kuu, savoy, muru, ask, spis, finnjävel, toca, pastis, a21, olo, demo, ragu, natura, emo
 * http://eat.fi/helsinki/passio-keittio-ja-baari fine
