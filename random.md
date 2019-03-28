@@ -32,6 +32,7 @@
 * trip: liesjärven kansallispuisto
 * trip: torronsuon kansallispuisto
 * trip: valkmusan kansallispuisto
+* trip: explore tallinn architecture
 
 ## Over week
 
