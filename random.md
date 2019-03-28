@@ -1,4 +1,4 @@
-# Random project ideas (updated 2019-03-27)
+# Random project/party ideas (updated 2019-03-27)
 
 ## 2-3 hours
 
@@ -10,7 +10,6 @@
 * dinner: töölön sävel (flambée)
 * dinner: via tribunali (traditional pizza)
 * brunch: bellevue (russian)
-* amos rex
 
 ## 4-6 hours
 
@@ -24,19 +23,19 @@
 
 ## Weekend
 
-* cook: rendang (indonesian) + take photos
-* cook: kebab + take photos
-* liesjärven kansallispuisto
-* torronsuon kansallispuisto
-* valkmusan kansallispuisto
 * varaston läpikäynti + siivous
 * kultakorujen jahtaaminen
+* party: laskevat kasvihuonepäästöt
+* party: cook rendang (indonesian)
+* party: cook kebab + take photos
 * trip: paimion parantola, villa mairea, beer hunter's
+* trip: liesjärven kansallispuisto
+* trip: torronsuon kansallispuisto
+* trip: valkmusan kansallispuisto
 
 ## Over week
 
 * kirpputoripöytä
-* tavaroiden luettelointi
 * päivän kuva
 * pohjoismaat roadtrip (+ baltia?), unesco sites etc
 * brexit ja vasemmanpuoleinen liikenne
