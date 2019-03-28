@@ -25,7 +25,7 @@
 
 * varaston läpikäynti + siivous
 * kultakorujen jahtaaminen
-* party: laskevat kasvihuonepäästöt
+* party: laskevat kasvihuonepäästöt <https://findikaattori.fi/fi/87>
 * party: cook rendang (indonesian)
 * party: cook kebab + take photos
 * trip: paimion parantola, villa mairea, beer hunter's
