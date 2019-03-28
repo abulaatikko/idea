@@ -14,6 +14,7 @@
 ## 4-6 hours
 
 * show: baletti
+* show: orion
 * dinner: grön (nr 1)
 * dinner: kabuki (first japanese)
 * dinner: baskeri & basso (hip)
