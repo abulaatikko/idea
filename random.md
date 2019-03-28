@@ -32,7 +32,8 @@
 * trip: liesjärven kansallispuisto
 * trip: torronsuon kansallispuisto
 * trip: valkmusan kansallispuisto
-* trip: explore tallinn architecture
+* trip: tallinnan arkkitehtuuri
+* trip: kunnantaloja (angelniemi, bromarv, koijärvi + 21 muuta)
 
 ## Over week
 
