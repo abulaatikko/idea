@@ -24,8 +24,8 @@
 
 ## Weekend
 
-* cook: rendang (indonesian)
-* cook: kebab
+* cook: rendang (indonesian) + take photos
+* cook: kebab + take photos
 * liesjärven kansallispuisto
 * torronsuon kansallispuisto
 * valkmusan kansallispuisto
