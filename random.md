@@ -17,7 +17,7 @@
 * dinner: grön (nr 1)
 * dinner: kabuki (first japanese)
 * dinner: baskeri & basso (hip)
-* relax: music etc
+* relax: music, art, inspiration, brainstorming etc
 * ikkunoiden pesu
 * find full course italian meal <https://en.wikipedia.org/wiki/Italian_meal_structure#Formal_meal_structure> (casa italia?)
 
