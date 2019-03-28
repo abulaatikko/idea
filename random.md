@@ -1,4 +1,6 @@
-# Random project/party ideas (updated 2019-03-28)
+# Random project/party ideas for summer 2019
+
+(updated 2019-03-28)
 
 ## 2-3 hours
 
