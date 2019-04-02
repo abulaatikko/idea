@@ -1,7 +1,5 @@
 # Random project/party ideas for summer 2019
 
-(updated 2019-03-28)
-
 ## 2-3 hours
 
 * movie: arabian lawrence <https://www.imdb.com/title/tt0056172/>
