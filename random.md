@@ -6,7 +6,9 @@
 
 * movie: arabian lawrence <https://www.imdb.com/title/tt0056172/>
 * movie: indiana jones 1-3
+* movie: imdb top-250
 * bar: navy jerry (rum)
+* bar: own drinks
 * dinner/lunch: coco grill (venezuela)
 * dinner/lunch: xiao mei lin (chinese)
 * dinner: töölön sävel (flambée)
@@ -22,7 +24,7 @@
 * dinner: baskeri & basso (hip)
 * relax: music, art, inspiration, brainstorming etc
 * ikkunoiden pesu
-* find full course italian meal <https://en.wikipedia.org/wiki/Italian_meal_structure#Formal_meal_structure> (casa italia?)
+* find full course italian meal <https://en.wikipedia.org/wiki/Italian_meal_structure#Formal_meal_structure> (casa italia? rodolfo?)
 
 ## Weekend
 
