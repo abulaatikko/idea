@@ -228,6 +228,7 @@ bolded = exceptionally good
 * http://www.kuurna.fi/
 * http://www.caverna.fi/ruoka/ lihaa
 * solna - munkkiniemi
+* grilli toro
 
 ## Best pizzerias in Finland
 
