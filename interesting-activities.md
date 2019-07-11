@@ -1,4 +1,4 @@
-# Random project/party ideas for summer 2019
+# interesting activities
 
 ## 2-3 hours
 
@@ -18,9 +18,7 @@
 * show: baletti
 * show: orion
 * dinner: grön (nr 1)
-* dinner: kabuki (first japanese)
 * dinner: baskeri & basso (hip)
-* relax: music, art, inspiration, brainstorming etc
 * ikkunoiden pesu
 * find full course italian meal <https://en.wikipedia.org/wiki/Italian_meal_structure#Formal_meal_structure> (casa italia? rodolfo?)
 
