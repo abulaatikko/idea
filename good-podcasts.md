@@ -14,7 +14,6 @@ most are in Finnish. bold = exceptionally good
 * Pääministerin haastattelutunti <https://areena.yle.fi/1-1494210>
 * Pörssipäivä <https://areena.yle.fi/1-3725092>
 * Rahapodi <https://soundcloud.com/rahapodi>
-* The Tim Ferriss Show <http://fourhourworkweek.com/podcast/>
 * Tiedeykkönen <http://areena.yle.fi/1-1403833>
 
 ## was good
@@ -27,6 +26,7 @@ most are in Finnish. bold = exceptionally good
 * **Leikola ja Lähde** <http://areena.yle.fi/1-2369214>
 * Perttu Häkkinen <http://areena.yle.fi/1-1792200>
 * The Great Courses <https://en.wikipedia.org/wiki/The_Great_Courses>
+* The Tim Ferriss Show <http://fourhourworkweek.com/podcast/>
 * **Tyyppimuunnos** <http://tyyppimuunnos.fi/episodes>
 * Vikasietotila <http://areena.yle.fi/1-3356709>
 
@@ -49,4 +49,4 @@ most are in Finnish. bold = exceptionally good
 
 ## random notes
 
-- sets: 2019-02-13, 2019-03-28, 2019-05-01
+- sets: 2019-02-13, 2019-03-28, 2019-05-01, 2019-07-25
