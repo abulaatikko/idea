@@ -32,8 +32,8 @@ most are in Finnish. bold = exceptionally good
 
 ## maybe good
 
-* Suomi ja Yhdysvallat talvisodasta kylmään sotaan <https://areena.yle.fi/1-4241425>
-* Maailmankartan historiaa <https://areena.yle.fi/1-3725093>
+* (DOWNLOADED) Suomi ja Yhdysvallat talvisodasta kylmään sotaan <https://areena.yle.fi/1-4241425>
+* (DOWNLOADED) Maailmankartan historiaa <https://areena.yle.fi/1-3725093>
 * Reformaation historia <https://areena.yle.fi/1-3972951>
 * Eurooppalaista populismia ja historiaa <https://areena.yle.fi/1-3841676>
 * Euroopan historian suuria aaltoliikkeitä <https://areena.yle.fi/1-4214790>
@@ -49,4 +49,4 @@ most are in Finnish. bold = exceptionally good
 
 ## random notes
 
-- sets: 2019-02-13, 2019-03-28, 2019-05-01, 2019-07-25
+- sets: 2019-02-13, 2019-03-28, 2019-05-01, 2019-07-25, 2019-08-17
