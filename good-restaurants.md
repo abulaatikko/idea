@@ -1,6 +1,7 @@
 # Ideas what to eat and drink in Helsinki
 
-* https://www.google.fi/maps/@60.1801741,24.9433829,13.04z/data=!4m2!6m1!1s1I4gtZDHu9jzrzUJUJgOLROJKKaQ
+* https://palsta.pulu.org/fi/90-klassikkoravintolat
+* https://www.google.fi/maps/@60.1801741,24.9433829,13.04z/data=!4m2!6m1!1s1I4gtZDHu9jzrzUJUJgOLROJKKaQ (2016)
 
 bolded = exceptionally good
 
@@ -13,7 +14,6 @@ bolded = exceptionally good
 * bier bier
 * brewdog
 * bruuveri (food)
-* **il birrificio** (good food)
 * janoinen lohi (belgian beer)
 * kannas, kamppi (good food)
 * kaunis kampela (belgian beer)
@@ -22,11 +22,11 @@ bolded = exceptionally good
 * old fox (cheap)
 * olhus kopenhavn
 * olhus stockholm
-* **one pint pub**
+* **one pint pub** (best)
 * **pikkulintu** (beer nerds)
 * pub ikkuna (cheap)
 * pulmu (airplane theme)
-* punavuoren ahven (belgian beer)
+* **punavuoren ahven** (belgian beer)
 * roskapankki (cheapest beer in town)
 * sivukirjasto
 * sori taproom (food)
@@ -46,15 +46,12 @@ bolded = exceptionally good
 ### Lunch
 
 * brokadi (sichuan, vallila)
-* cafe rouge (french home food)
+* **cafe rouge** (french home food)
 * factory, kamppi (home food, salads)
 * **halikarnas**, kamppi (turkish buffet)
 * kabuki, kamppi (japanese)
 * kampin pippuri, kamppi (turkish buffet)
-* konnichiwa (sushi buffet)
-* **merimakasiini**, punavuori (fish, soup, salad)
 * perho, töölö (restaurant school)
-* ravintola china, kamppi (cantonese)
 
 ### <15e
 
@@ -88,7 +85,7 @@ bolded = exceptionally good
 * subway, kamppi (sandwich)
 * tin tin tango, töölö (breakfast)
 * ukko-munkki, munkkiniemi (finnish pizza)
-* **villetta**, töölö (italian pizza)
+* villetta, töölö (italian pizza)
 * zio pepe, kamppi (italian pizza)
 
 ### 15-30e
@@ -228,7 +225,6 @@ bolded = exceptionally good
 * http://www.kuurna.fi/
 * http://www.caverna.fi/ruoka/ lihaa
 * solna - munkkiniemi
-* grilli toro
 
 ## Best pizzerias in Finland
 
