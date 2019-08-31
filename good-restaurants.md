@@ -64,6 +64,7 @@ bolded = exceptionally good
 * casa mare, lauttasaari (family pizza)
 * eerikin pippuri, kamppi (kebab)
 * **fafa's**, kamppi (pita)
+* going greek, kallio (pita)
 * kampin pippuri, kamppi (kebab)
 * kimchi wagon, kamppi (korean)
 * mad wok, kamppi (chinese)
