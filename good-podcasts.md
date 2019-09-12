@@ -25,6 +25,7 @@ most are in Finnish. bold = exceptionally good
 * **Jari Sarasvuo** <http://areena.yle.fi/1-1791080>
 * **Leikola ja Lähde** <http://areena.yle.fi/1-2369214>
 * Perttu Häkkinen <http://areena.yle.fi/1-1792200>
+* Suomalaiset puolueet <https://areena.yle.fi/1-1287348>
 * The Great Courses <https://en.wikipedia.org/wiki/The_Great_Courses>
 * The Tim Ferriss Show <http://fourhourworkweek.com/podcast/>
 * **Tyyppimuunnos** <http://tyyppimuunnos.fi/episodes>
