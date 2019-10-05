@@ -75,6 +75,7 @@
 # painting
 
 * dalí
+* picasso
 
 # architecture
 
