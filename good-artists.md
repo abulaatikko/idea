@@ -51,10 +51,10 @@
 ## 2008
 
 * pink floyd
-* pendulum
 
 ## 2007
 
+* juno reactor
 * spongle
 * infected mushrooms
 
@@ -67,6 +67,7 @@
 
 * kraftwerk
 * jean michel jarre
+* pendulum
 
 # movie
 
