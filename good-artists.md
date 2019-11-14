@@ -63,6 +63,7 @@
 
 * kapteeni ä-ni
 * soul captain band
+* paprika korps
 
 ## 2005
 
