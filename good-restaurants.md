@@ -67,6 +67,7 @@ bolded = exceptionally good
 * going greek, kallio (pita)
 * kampin pippuri, kamppi (kebab)
 * kimchi wagon, kamppi (korean)
+* kuwano, kamppi (asia buffet)
 * mad wok, kamppi (chinese)
 * mcdonald's kamppi (burger)
 * morrison's, kamppi (burger)
