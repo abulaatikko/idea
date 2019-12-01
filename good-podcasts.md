@@ -4,6 +4,7 @@ most are in Finnish. bold = exceptionally good
 
 ## atm listening (2019 july)
 
+* 10x <https://jakso.fi/podcastit?id=0a98668f0f895bf09cfa>
 * **Apunen** <http://jakso.fi/podcastit?id=358d68213770462eb1e6>
 * **Juuso Pekkinen** <https://areena.yle.fi/1-3945773>
 * Kirjeenvaihtajat <https://areena.yle.fi/1-4225655>
