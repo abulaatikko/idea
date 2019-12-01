@@ -50,7 +50,6 @@ most are in Finnish. bold = exceptionally good
 * <http://jakso.fi/podcastit>
   * maybe (A):
     * <https://jakso.fi/podcastit?id=b6fb14e6f3037ee064a2>
-    * <https://jakso.fi/podcastit?id=0a98668f0f895bf09cfa>
 
 ## random notes
 
