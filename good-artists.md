@@ -70,6 +70,7 @@
 * kraftwerk
 * jean michel jarre
 * pendulum
+* opeth
 
 # movie
 
