@@ -44,6 +44,7 @@ most are in Finnish. bold = exceptionally good
 * Tiedetv <https://www.youtube.com/channel/UCcX5vCK1fNj6Buf7OotptUw>
 * Tuplaamo <http://tuplaamo.fi/blogi/>
 * Changelog <https://changelog.com/podcast>
+* Joe Rogan <http://podcasts.joerogan.net/>
 
 ## more
 
