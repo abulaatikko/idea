@@ -54,4 +54,4 @@ most are in Finnish. bold = exceptionally good
 
 ## random notes
 
-- sets: 2019-08-17, 2019-09-09, 2019-10-19, 2019-11-25
+- sets: 2019-10-19, 2019-11-25. 2019-12-10
