@@ -71,6 +71,7 @@
 * jean michel jarre
 * pendulum
 * opeth
+* rammstein
 
 # movie
 
