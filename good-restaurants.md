@@ -7,35 +7,38 @@ bolded = exceptionally good
 
 ## Tested (and recommended)
 
-### Beer (and food)
+### Beer
 
-* angletere (boring food)
-* bar teos (wine, tapas)
+* angletere
 * bier bier
 * brewdog
-* bruuveri (food)
 * janoinen lohi (belgian beer)
-* kannas, kamppi (good food)
 * kaunis kampela (belgian beer)
 * laiska karhu (cheap)
 * milli miglia (italian racing theme)
 * old fox (cheap)
 * olhus kopenhavn
 * olhus stockholm
-* **one pint pub** (best)
+* **one pint pub**
 * **pikkulintu** (beer nerds)
 * pub ikkuna (cheap)
 * pulmu (airplane theme)
 * **punavuoren ahven** (belgian beer)
 * roskapankki (cheapest beer in town)
 * sivukirjasto
-* sori taproom (food)
-* stadin panimo (food)
-* **st. urho's pub** (food)
-* suomenlinnan panimo (food)
 * teerenpeli, kamppi
 * vastarannan kiiski (belgian beer)
-* viisi penniä (food)
+
+### Gastropub
+
+* bar teos (wine, tapas)
+* bruuveri
+* **kannas**, kamppi
+* sori taproom
+* stadin panimo
+* **st. urho's pub**
+* suomenlinnan panimo
+* viisi penniä
 
 ### Café
 
