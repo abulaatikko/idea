@@ -69,7 +69,6 @@ bolded = exceptionally good
 * **fafa's**, kamppi (pita)
 * going greek, kallio (pita)
 * kampin pippuri, kamppi (kebab)
-* kimchi wagon, kamppi (korean)
 * kuwano, kamppi (asia buffet)
 * mad wok, kamppi (chinese)
 * mcdonald's kamppi (burger)
@@ -82,7 +81,7 @@ bolded = exceptionally good
 * pinto bstaurant, kallio (thai)
 * pizzarium, kamppi (pizza slizes)
 * putte's bar, kamppi (trendy pizza)
-* ravintola china, kamppi (chinese)
+* **ravintola china**, kamppi (chinese)
 * roslund, hietalahti (burger)
 * singapore hot wok, kamppi
 * sky express, kamppi (turkish pizza)
@@ -137,7 +136,6 @@ bolded = exceptionally good
 ### Cafés
 
 * NEAR tanskalaiset leivät
-* NEAR http://eat.fi/helsinki/cafe aasia
 * cafe jugend
 * http://chjoko.com/ - suklaata
 * http://eat.fi/helsinki/cafe-kuppimuffini
@@ -172,10 +170,8 @@ bolded = exceptionally good
 ### Exotic
 
 * 5th floor of kamppi shopping center
-* NEAR http://eat.fi/helsinki/twisted-street-kitchen
+* NEAR https://www.twistedhelsinki.fi/
 * NEAR http://eat.fi/helsinki/thai-orchid1
-* NEAR maithai
-* NEAR kabuki
 * NEAR WOLT http://www.ravintolamonal.fi/menu.html intia
 * NEAR http://eat.fi/helsinki/trattoria-rivoletto
 * NEAR http://eat.fi/helsinki/golden-leaf-asian-cuisine kanton
