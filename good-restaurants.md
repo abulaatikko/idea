@@ -96,6 +96,7 @@ bolded = exceptionally good
 
 * b-smokery, sörnäinen (smoked meat)
 * cella (traditional)
+* golden leaf (kanton)
 * hoshito (twisted asian)
 * **georgian house** (georgian)
 * **kim's tapas** (spanish)
