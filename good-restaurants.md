@@ -175,7 +175,6 @@ bolded = exceptionally good
 * NEAR http://eat.fi/helsinki/thai-orchid1
 * NEAR WOLT http://www.ravintolamonal.fi/menu.html intia
 * NEAR http://eat.fi/helsinki/trattoria-rivoletto
-* NEAR http://eat.fi/helsinki/golden-leaf-asian-cuisine kanton
 * NEAR pueblo bar
 * levain-leipomoravintola
 * http://eat.fi/helsinki/domo japani
