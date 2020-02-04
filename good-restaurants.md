@@ -1,7 +1,7 @@
 # Ideas what to eat and drink in Helsinki
 
 * https://palsta.pulu.org/fi/90-klassikkoravintolat
-* https://www.google.fi/maps/@60.1801741,24.9433829,13.04z/data=!4m2!6m1!1s1I4gtZDHu9jzrzUJUJgOLROJKKaQ (2016)
+* https://www.google.fi/maps/@60.1801741,24.9433829,13.04z/data=!4m2!6m1!1s1I4gtZDHu9jzrzUJUJgOLROJKKaQ (updated in 2016)
 
 bolded = exceptionally good
 
@@ -108,6 +108,7 @@ bolded = exceptionally good
 * oiva (good brunch)
 * onda (peruvian)
 * pobre (filipino)
+* pueblo bar (tex mex)
 * rymy-eetu (tavern)
 * queen sheba (ethiopian)
 * silvoplee (vegetarian)
@@ -115,6 +116,7 @@ bolded = exceptionally good
 
 ### 30e+
 
+* amigo
 * atelje finne
 * **bellevue** (russian brunch)
 * **farang** (modern asian)
@@ -122,8 +124,19 @@ bolded = exceptionally good
 * **lyon** (french)
 * roster (fine)
 * **saslik** (russian)
+* stefan's steakhouse
 
 ## Not tested yet
+
+### Top interests
+
+* armenian grill house
+* tanskalaiset leivät
+* casa italia
+* siilinpesä
+* pompei
+* baskeri & basso
+* pakistani
 
 ### Beer (and food)
 
@@ -136,7 +149,6 @@ bolded = exceptionally good
 
 ### Cafés
 
-* NEAR tanskalaiset leivät
 * cafe jugend
 * http://chjoko.com/ - suklaata
 * http://eat.fi/helsinki/cafe-kuppimuffini
@@ -153,7 +165,6 @@ bolded = exceptionally good
 * NEAR http://eat.fi/helsinki/la-soupe soppaa
 * NEAR http://eat.fi/helsinki/street-gastro1 kauppahalli
 * http://eat.fi/helsinki/istanbul-grilli
-* Casa Italia puoti
 * lavaklubi - kansallisteatteri, klo 17-21
 * http://eat.fi/helsinki/pashas kebab
 * http://eat.fi/helsinki/soup soppaa
@@ -164,7 +175,6 @@ bolded = exceptionally good
 * http://eat.fi/helsinki/pizzeria-sopranos
 * hard rock cafe
 * skiffer - pitsa, erottaja
-* http://www.siilinpesa.com/menu/
 * http://eat.fi/helsinki/rulla uus
 * teurastamo
 
@@ -175,7 +185,6 @@ bolded = exceptionally good
 * NEAR http://eat.fi/helsinki/thai-orchid1
 * NEAR WOLT http://www.ravintolamonal.fi/menu.html intia
 * NEAR http://eat.fi/helsinki/trattoria-rivoletto
-* NEAR pueblo bar
 * levain-leipomoravintola
 * http://eat.fi/helsinki/domo japani
 * omnam
@@ -190,7 +199,6 @@ bolded = exceptionally good
 * http://eat.fi/helsinki/zorbas
 * http://eat.fi/helsinki/bodo ramen kallio
 * villa thai
-* pompei - italialainen krunikka
 * trattoria sogno - töölö, italia
 * http://www.lungi.fi/ruoka/
 * lemon grass kallio thaikku
@@ -212,9 +220,7 @@ bolded = exceptionally good
 * lehtovaara
 * http://kiusaus.fi/ruokalista/ perjantaisin rapua 4 hlö
 * http://ravintolaregina.fi/menu/ 
-* http://www.kom-ravintola.fi/ruokalistat.html
 * http://eat.fi/helsinki/sea-horse
-* http://rafla.fi/amigo/fi/etusivu pihvi
 * sinne
 * linnankellari
 * pontus
@@ -222,7 +228,6 @@ bolded = exceptionally good
 * juuri, kuu, savoy, muru, ask, spis, finnjävel, toca, pastis, a21, olo, demo, ragu, natura, emo
 * http://eat.fi/helsinki/passio-keittio-ja-baari fine
 * grön - vihreetä
-* baskeri & basso
 * http://www.kuurna.fi/
 * http://www.caverna.fi/ruoka/ lihaa
 * solna - munkkiniemi
