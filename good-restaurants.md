@@ -121,7 +121,8 @@ bolded = exceptionally good
 * **bellevue** (russian brunch)
 * **farang** (modern asian)
 * gaijin (modern asian)
-* **lyon** (french)
+* **lehtovaara** (french brunch)
+* lyon (french)
 * roster (fine)
 * **saslik** (russian)
 * stefan's steakhouse
