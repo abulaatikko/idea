@@ -138,6 +138,7 @@ bolded = exceptionally good
 * pompei
 * baskeri & basso
 * pakistani
+* elite
 
 ### Beer (and food)
 
@@ -217,8 +218,6 @@ bolded = exceptionally good
 * NEAR http://www.konstanmolja.fi/paivallinen
 * hotel kämp aamiainen klo 6-10, 7-11
 * http://eat.fi/helsinki/toolon-savel
-* elite
-* lehtovaara
 * http://kiusaus.fi/ruokalista/ perjantaisin rapua 4 hlö
 * http://ravintolaregina.fi/menu/ 
 * http://eat.fi/helsinki/sea-horse
