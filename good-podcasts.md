@@ -15,6 +15,7 @@ most are in Finnish. bold = exceptionally good
 * Pääministerin haastattelutunti <https://areena.yle.fi/1-1494210>
 * Pörssipäivä <https://areena.yle.fi/1-3725092>
 * Rahapodi <https://soundcloud.com/rahapodi>
+* Ruben Stiller <https://areena.yle.fi/audio/1-4361886>
 * Tiedeykkönen <http://areena.yle.fi/1-1403833>
 
 ## was good
@@ -34,7 +35,6 @@ most are in Finnish. bold = exceptionally good
 
 ## maybe good
 
-* Ruben Stiller <https://areena.yle.fi/audio/1-4361886>
 * (DOWNLOADED) Suomi ja Yhdysvallat talvisodasta kylmään sotaan <https://areena.yle.fi/1-4241425>
 * Reformaation historia <https://areena.yle.fi/1-3972951>
 * Eurooppalaista populismia ja historiaa <https://areena.yle.fi/1-3841676>
@@ -54,4 +54,4 @@ most are in Finnish. bold = exceptionally good
 
 ## random notes
 
-- sets: 2019-11-25, 2019-12-10, 2020-01-29
+- sets: 2019-12-10, 2020-01-29, 2020-02-29
