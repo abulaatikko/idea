@@ -17,6 +17,7 @@ most are in Finnish. bold = exceptionally good
 * Rahapodi <https://soundcloud.com/rahapodi>
 * Ruben Stiller <https://areena.yle.fi/audio/1-4361886>
 * Tiedeykkönen <http://areena.yle.fi/1-1403833>
+* Ykkösaamu <https://areena.yle.fi/1-2227354>
 
 ## was good
 
