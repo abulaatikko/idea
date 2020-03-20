@@ -1,11 +1,12 @@
 # good podcasts
 
-most are in Finnish. bold = exceptionally good
+Most are in Finnish. **Bold** means exceptionally good podcast.
 
 ## atm listening (2019 july)
 
 * 10x <https://jakso.fi/podcastit?id=0a98668f0f895bf09cfa>
 * **Apunen** <http://jakso.fi/podcastit?id=358d68213770462eb1e6>
+* Brysselin kone <http://areena.yle.fi/1-1517763>
 * **Juuso Pekkinen** <https://areena.yle.fi/1-3945773>
 * Kirjeenvaihtajat <https://areena.yle.fi/1-4225655>
 * Mikko "Peltsi" Peltola <https://areena.yle.fi/1-2287556>
@@ -23,7 +24,6 @@ most are in Finnish. bold = exceptionally good
 
 * **Ajantasan Kaukoputki** <http://areena.yle.fi/1-1961721>
 * Biohakkerin käsikirja <https://soundcloud.com/biohakkeri>
-* Brysselin kone <http://areena.yle.fi/1-1517763>
 * Huominen on huonompi <https://areena.yle.fi/1-50028948>
 * **Jari Sarasvuo** <http://areena.yle.fi/1-1791080>
 * **Leikola ja Lähde** <http://areena.yle.fi/1-2369214>
@@ -55,4 +55,4 @@ most are in Finnish. bold = exceptionally good
 
 ## random notes
 
-- sets: 2019-12-10, 2020-01-29, 2020-02-29
+- sets: 2020-01-29, 2020-02-29, 2020-03-19
