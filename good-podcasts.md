@@ -38,14 +38,12 @@ Most are in Finnish. **Bold** means exceptionally good podcast.
 
 * (DOWNLOADED) Suomi ja Yhdysvallat talvisodasta kylmään sotaan <https://areena.yle.fi/1-4241425>
 * Reformaation historia <https://areena.yle.fi/1-3972951>
-* Eurooppalaista populismia ja historiaa <https://areena.yle.fi/1-3841676>
-* (1/4 DOWNLOADED) Euroopan historian suuria aaltoliikkeitä <https://areena.yle.fi/1-4214790>
-* Webbidevaus <https://webbidevausfi.simplecast.fm/> (40 ladattu)
 * Kipinä <http://www.jussivenalainen.fi/kipinapodcast/>
 * Tiedetv <https://www.youtube.com/channel/UCcX5vCK1fNj6Buf7OotptUw>
 * Tuplaamo <http://tuplaamo.fi/blogi/>
 * Changelog <https://changelog.com/podcast>
 * Joe Rogan <http://podcasts.joerogan.net/>
+* Ben Greenfield
 
 ## more
 
@@ -55,4 +53,4 @@ Most are in Finnish. **Bold** means exceptionally good podcast.
 
 ## random notes
 
-- sets: 2020-01-29, 2020-02-29, 2020-03-19
+- sets: 2020-01-29, 2020-02-29, 2020-03-19, 2020-03-25
