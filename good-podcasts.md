@@ -2,9 +2,8 @@
 
 Most are in Finnish. **Bold** means exceptionally good podcast.
 
-## atm listening (2019 july)
+## atm listening (2020-nov)
 
-* 10x <https://jakso.fi/podcastit?id=0a98668f0f895bf09cfa>
 * **Apunen** <http://jakso.fi/podcastit?id=358d68213770462eb1e6>
 * Brysselin kone <http://areena.yle.fi/1-1517763>
 * **Juuso Pekkinen** <https://areena.yle.fi/1-3945773>
@@ -22,6 +21,7 @@ Most are in Finnish. **Bold** means exceptionally good podcast.
 
 ## was good
 
+* 10x <https://jakso.fi/podcastit?id=0a98668f0f895bf09cfa>
 * **Ajantasan Kaukoputki** <http://areena.yle.fi/1-1961721>
 * Biohakkerin käsikirja <https://soundcloud.com/biohakkeri>
 * Huominen on huonompi <https://areena.yle.fi/1-50028948>
@@ -53,4 +53,4 @@ Most are in Finnish. **Bold** means exceptionally good podcast.
 
 ## random notes
 
-- sets: 2020-04-10, 2020-04-18, 2020-04-29, 2020-05-14, 2020-05-28, 2020-06-09
+- sets: 2020-06-09, 2020-11-04
