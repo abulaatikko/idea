@@ -54,4 +54,4 @@ Most are in Finnish. **Bold** means exceptionally good podcast.
 
 ## random notes
 
-- sets: 2020-06-09, 2020-11-04, 2020-11-19
+- sets: 2020-06-09, 2020-11-04, 2020-11-19, 2021-02-21
