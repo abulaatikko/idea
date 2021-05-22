@@ -62,6 +62,7 @@
 * juno reactor
 * spongle
 * infected mushrooms
+* klaus nomi
 
 ## 2006
 
