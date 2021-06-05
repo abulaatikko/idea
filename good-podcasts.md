@@ -36,6 +36,7 @@ Most are in Finnish. **Bold** means exceptionally good podcast.
 
 ## maybe good
 
+* Jaa, ei, tyhjiä, poissa
 * https://www.f-secure.com/fi/business/podcasts/herrasmieshakkerit
 * (DOWNLOADED) Suomi ja Yhdysvallat talvisodasta kylmään sotaan <https://areena.yle.fi/1-4241425>
 * Reformaation historia <https://areena.yle.fi/1-3972951>
