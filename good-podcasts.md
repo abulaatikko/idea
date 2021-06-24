@@ -19,6 +19,10 @@ Most are in Finnish. **Bold** means exceptionally good podcast.
 * Tiedeykkönen <http://areena.yle.fi/1-1403833>
 * Ykkösaamu <https://areena.yle.fi/1-2227354>
 
+## New 
+
+* https://open.spotify.com/show/4STiZ2HTMRcPSAM1QpBOC2
+
 ## was good
 
 * 10x <https://jakso.fi/podcastit?id=0a98668f0f895bf09cfa>
